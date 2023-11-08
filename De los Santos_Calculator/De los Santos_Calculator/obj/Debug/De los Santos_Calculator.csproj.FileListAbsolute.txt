@@ -1,0 +1,16 @@
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\bin\Debug\De los Santos_Calculator.exe.config
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\bin\Debug\De los Santos_Calculator.exe
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\bin\Debug\De los Santos_Calculator.pdb
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\bin\Debug\MetroFramework.dll
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\obj\Debug\De los Santos_Calculator.csproj.AssemblyReference.cache
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\obj\Debug\De_los_Santos_Calculator.Form1.resources
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\obj\Debug\De_los_Santos_Calculator.Properties.Resources.resources
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\obj\Debug\De los Santos_Calculator.csproj.GenerateResource.cache
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\obj\Debug\De los Santos_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\obj\Debug\De los Santos_Calculator.csproj.CopyComplete
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\obj\Debug\De los Santos_Calculator.exe
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\obj\Debug\De los Santos_Calculator.pdb
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\ENGR-02.LPUCAVITE\source\repos\De los Santos_Calculator\De los Santos_Calculator\bin\Debug\System.Linq.Dynamic.Core.xml
